@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exe</string>
+    <string name="btn_change">To Second Activity</string>
+    <string name="btn_move">Move</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_ex4">Exe4</string>
+    <string name="btn_ex5">Exe5</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Hybrid"
+        android:id="@+id/check_hybrid"></item>
+    <item android:title="None"
+        android:id="@+id/check_none"></item>
+    <item android:title="Normal"
+        android:id="@+id/check_normal"></item>
+    <item android:title="Satellite"
+        android:id="@+id/check_satellite"></item>
+    <item android:title="Terrain"
+        android:id="@+id/check_terrain"></item>
+</menu>
