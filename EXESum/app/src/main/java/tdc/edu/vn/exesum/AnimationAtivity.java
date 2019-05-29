@@ -87,8 +87,6 @@ public class AnimationAtivity extends AppCompatActivity {
                 }
             }
         });
-
-
     }
 
     private void setControl() {
