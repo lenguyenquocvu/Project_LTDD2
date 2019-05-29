@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mutlitele</string>
+    <string name="tvTitle">Title</string>
+    <string name="tvStartTime">0:00</string>
+    <string name="btnEditLyrics">Edit lyrics</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="EXE1">EXE 1</string>
+    <string name="EXE2">EXE 2</string>
+    <string name="EXE3">EXE 3</string>
+    <string name="EXE4">EXE 4</string>
+    <string name="EXE5">EXE 5</string>
+    <string name="radRun">Run</string>
+    <string name="radRotate">Rotate</string>
+    <string name="radZoom">Zoom</string>
+    <string name="btnAnimate">Start</string>
+</resources>

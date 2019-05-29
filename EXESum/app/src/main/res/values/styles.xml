@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="nextstyle">
+        <item name="android:background">@drawable/next_style</item>
+    </style>
+    <style name="prevstyle">
+        <item name="android:background">@drawable/prev_style</item>
+    </style>
+    <style name="playstyle">
+        <item name="android:background">@drawable/play_style</item>
+    </style>
+    <style name="stopstyle">
+        <item name="android:background">@drawable/stop_style</item>
+    </style>
+</resources>
